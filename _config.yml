@@ -15,11 +15,11 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
+  search: /search
   about: /about/
   articles: /archives/
   comments: /comments/
   friends: /friends/
-  projects: http://github.com/liangdongye999
 
 
 # Links to your social media accounts.
